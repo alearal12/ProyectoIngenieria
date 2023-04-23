@@ -1,0 +1,2 @@
+Para crear la conexion con la base de datos ocupamos crear un login y asignarle la base de datos.
+Adicionalmente, se necesita saber el nombre del servidor y su instancia. Tambien se ocupa el puerto (por defecto es el 1433).

@@ -1,0 +1,2 @@
+To establish a connection with the database we need to create a login and asign it to the database.
+We also need to know the server name and the instance name, as well as the port number (1433 by default). 
